@@ -79,4 +79,7 @@ Nigmadzianov vs. Leonid Kaplun, URS, 1977
 
 H Strickert vs. Hausius, DDR, 1985
 1. Qxa7+ Kxc6 2. Qa6+ Nb6 3. Na5#
-	[if 1. ... Kb5 2. a4+ Kc4 3. Qa6#]
+	[if 1. ... Kb5 2. c4+ Kxc4 3. Qa6#]
+
+
+John Nunn vs. Miroslaw Sarwinski, Naleczow, 1987
