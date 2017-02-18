@@ -79,7 +79,18 @@ Nigmadzianov vs. Leonid Kaplun, URS, 1977
 
 H Strickert vs. Hausius, DDR, 1985
 1. Qxa7+ Kxc6 2. Qa6+ Nb6 3. Na5#
-	[if 1. ... Kb5 2. c4+ Kxc4 3. Qa6#]
+	[if 1. ... Kb5 2. c4+ Kxc4 3. Qa6#] (it was hard to see c4+, I incorrectly thought the line was a4+)
 
 
 John Nunn vs. Miroslaw Sarwinski, Naleczow, 1987
+1. Qb3 (threatening 2. Qg8+ Rxg8 Nf7#) Qxb3
+	[losing is 1. ... Rxe7 2. Qg8#]
+2. Rxe7+ Qg8 3. Nf7#
+
+
+Mark Hebden vs. Jean Pichon, Cappelle la Grande, 1990
+1. Qxf7 Rxf2
+	[1. ... Rxf7 2. Nxf7#]
+	[1. ... gxf6 2. Qh7#]
+	[1. ... Rg8 2. Qg6 and mate on h7 can't be stopped]
+2. Qg8+ Rxg8 3. Nf7#
