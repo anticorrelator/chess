@@ -40,57 +40,111 @@ Johannes Addicks vs. Mladen Gudjev, Prague, 1931
 
 
 Paul Keres vs. Verbak, corres, 1932
-1. Qh6+ Kxh6 2. Rh4++ Kg7 3. Bh6#
+1.Qh6+ Kxh6 2.Rh4++ Kg7 3.Bh6#
 
 
 JR Capablanca vs. Gunnar Friedmann, Cuernavaca, 1933
-1. Nxg7+ Ke7 2. Nf5+ Rxf5 3. Qe6#
+1.Nxg7+ Ke7 2.Nf5+ Rxf5 3.Qe6#
 
 
 Karl Ahues vs Gerhard Weissgerber, Germany, 1935
-1. Rh6+ gxh6 2. Qxh6+ Kf5 3. Qg5#
+1.Rh6+ gxh6 2.Qxh6+ Kf5 3.Qg5#
 
 
 Bernstein vs Kotov, Groningen, 1946
-1. f5+ exf5 (only sensible choice, as 1. ... Qxf5 loses too much material)
-2. Qxh6+ (this was really hard for me to see, I fixated on Rxh6+) gxh6 3. Rag8#
+1.f5+ exf5 (only sensible choice, as 1. ...Qxf5 loses too much material)
+2.Qxh6+ (this was really hard for me to see, I fixated on Rxh6+) gxh6 3.Rag8#
 
 
 David Bronstein vs Efim Geller, Moscow, 1961
-1. Qg6 fxg6 (only defense against 2. Qxg7#... this was also extremely difficult for me to see)
-2. Rxg7+ Kf8 3. Nxg6#
+1.Qg6 fxg6 (only defense against 2.Qxg7#... this was also extremely difficult for me to see)
+2.Rxg7+ Kf8 3.Nxg6#
 
 
 Marco Piccardo vs. Piranty, Corres., 1961
-1. Qxd8+ Kxd8 2. Bg5++ Ke8 3. Rd8#
-	[Also 2. ... Kc8 3. Rd8#]
+1. Qxd8+ Kxd8 2.Bg5++ Ke8 3.Rd8#
+	[Also 2. ...Kc8 3.Rd8#]
 
 
 Michael Haygarth vs. Gerald Bennett, England, 1974
-1. Nxf6+ Rxf6
-	[losing is 1. ... Nxf6 2. Qg7#]
-	[also 1. ... Kh8 2. Qxh7#]
-2. Qxh7+ Kf8 3. Qh8#
+1.Nxf6+ Rxf6
+	[losing is 1. ...Nxf6 2.Qg7#]
+	[also 1. ...Kh8 2.Qxh7#]
+2.Qxh7+ Kf8 3.Qh8#
 
 
 Nigmadzianov vs. Leonid Kaplun, URS, 1977
-1. Nd6++ Kd8 2. Qe8+ Nxe8 3. Nd6#
+1.Nd6++ Kd8 2.Qe8+ Nxe8 3.Nd6#
 
 
 H Strickert vs. Hausius, DDR, 1985
-1. Qxa7+ Kxc6 2. Qa6+ Nb6 3. Na5#
-	[if 1. ... Kb5 2. c4+ Kxc4 3. Qa6#] (it was hard to see c4+, I incorrectly thought the line was a4+)
+1.Qxa7+ Kxc6 2.Qa6+ Nb6 3.Na5#
+	[if 1. ...Kb5 2.c4+ Kxc4 3.Qa6#] (it was hard to see 2.c4+, I incorrectly thought the line was 2.a4+)
 
 
 John Nunn vs. Miroslaw Sarwinski, Naleczow, 1987
-1. Qb3 (threatening 2. Qg8+ Rxg8 Nf7#) Qxb3
-	[losing is 1. ... Rxe7 2. Qg8#]
-2. Rxe7+ Qg8 3. Nf7#
+1.Qb3 (threatening 2. Qg8+ Rxg8 Nf7#) Qxb3
+	[losing is 1. ...Rxe7 2.Qg8#]
+2.Rxe7+ Qg8 3.Nf7#
 
 
 Mark Hebden vs. Jean Pichon, Cappelle la Grande, 1990
-1. Qxf7 Rxf2
-	[1. ... Rxf7 2. Nxf7#]
-	[1. ... gxf6 2. Qh7#]
-	[1. ... Rg8 2. Qg6 and mate on h7 can't be stopped]
-2. Qg8+ Rxg8 3. Nf7#
+1.Qxf7 Rxf2
+	[1. ...Rxf7 2.Nxf7#]
+	[1. ...gxf6 2.Qh7#]
+	[1. ...Rg8 2.Qg6 and mate on h7 can't be stopped]
+2.Qg8+ Rxg8 3.Nf7#
+
+
+Alexey Aleksandrov vs. Dimitri Reinderman, Sas Van Gent, 1992
+1.Rh7+ Kxh7 2. Qh4+ Kg7 3. Qh6#
+
+
+Michael Adams vs. Sherhard, London, 1993
+1.Qxd6+ Qxd6 2.Rxc8+ Qd8 3.Rxd8#
+
+
+Michael Adams vs. Jeroen Piket, Wijk aan Zee, 1993
+1.Ne6+ Kb8
+	[1. ...Kc8 2. Rd8#]
+2.Rd8+ Ka7 3.Ra8#
+
+
+Michal Krasenkow vs. Oleg Nikolenko, Lubniewice, 1994
+1.Qh4+ Kxg6 2.Qg4+ Kf7 3.Qg7#
+
+
+Ketevan Arakhamia-Grant vs. Rodriguez Lopez, Sevilla, 1994
+1.Qh6+ Ke5 2.d4+ cxd4
+	[2. ...Kxd4 3.Rd1#]
+3. f4#
+
+
+Ivanchuk vs Dorfman, Cap d'Agde, 1998
+1.Qd6+ Re7 2.Qd8+ Re8 3.e7#
+
+
+Manfred Herzog vs. Udo Helscher, Wiesbaden, 1998
+1.Qf7+ Kh8 2.Rxh6+ gxh6 3.Qh7#
+
+
+Magnus Carlsen vs. Hans Harestad, Copenhagen, 2003
+1. Qxg5+ fxg5 2. Rf7+ Kxh6 3. Rxh7#
+
+
+Levon Aronian vs. Dragan Solak, Internet, 2003
+1.Rh8+ Kg5 2.Qc1+ Kg4 3.Qf4#
+
+
+Varuzhan Akobian vs. Blas Lugo, Minneapolis, 2005
+1.Rf7+ Qxf7
+	[1. ...Kg8 2.Qg7#]
+2.Rh4+ Kg8 3.Rh8#
+
+
+Dmitry Andreikin vs. Alexsej Lanin, St. Petersburg, 2007
+1.Qxg7+ Rxg7 2.Rf8+ Rg8 3.Rgxg8# (or 3.Rfxg8#)
+
+
+Cristian Faig vs. Vinicius Marques, Isla Margarita, 1998
+1.Ne7+ Kh8 2.Qxh7+ Kxh7 3.Rh4#
