@@ -1,0 +1,10 @@
+# wtharvey Mate in 4 Puzzles
+http://wtharvey.com/m8n4.html
+
+
+Richardson vs. Eugene Delmar, New York, 1887
+1.Nf6+ gxf6 2.Qf8+ Kxf8 3.Bh6+ Kg8 4.Re8#
+
+
+Albert Becker vs. Eduard Glass, Vienna, 1928
+1.Rc8+ Qxc8 2.Qxb6+ Qb7 3.Nc6+ Kc8 4.Qd8#
